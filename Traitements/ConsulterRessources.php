@@ -12,7 +12,8 @@
 ?>
 <div>
 	<p>
-		ici sont les ressources !
+		ici sont les ressources ! 
+		$heieiheijh
 	</p>
 </div>
 </body>
